@@ -2,18 +2,23 @@
  A Blog keeping application made to compose Blogs using EJS, MongoDB
 
 Home Page 🏠
-<img width="960" alt="1" src="https://github.com/atharvarai/Blog-with-Database/assets/86284486/8b485f3d-8a5d-48eb-874d-0054e4edbbe2">
+<img width="958" alt="1" src="https://github.com/atharvarai/Blog-with-Database/assets/86284486/113ec04f-0146-46ee-88cb-597a649da120">
+
 
 Compose Blog 📝
-<img width="960" alt="2" src="https://github.com/atharvarai/Blog-with-Database/assets/86284486/5b74ef79-dc5b-4f71-9876-7f277711f3c9">
+<img width="959" alt="2" src="https://github.com/atharvarai/Blog-with-Database/assets/86284486/893d3ed0-07d6-4e7d-a070-98bd56f615d0">
+
 
 View the added Blogs 👀
-<img width="960" alt="3" src="https://github.com/atharvarai/Blog-with-Database/assets/86284486/9a7610ae-9435-4bd0-8b37-e97d0a4a84f1">
+<img width="958" alt="3" src="https://github.com/atharvarai/Blog-with-Database/assets/86284486/8bea51c4-4a8a-440c-86f3-1694972083c0">
 
-View each Blog separately 🔍
-<img width="959" alt="4" src="https://github.com/atharvarai/Blog-with-Database/assets/86284486/6452b5be-e569-4f31-99ff-0780d3be8d93">
+
+View each Blog separately in detail🔍
+<img width="960" alt="4" src="https://github.com/atharvarai/Blog-with-Database/assets/86284486/99e787ab-9fd3-4cf4-acdd-dc623692ec64">
+
 
 Blogs added to Database 📅
-<img width="671" alt="5" src="https://github.com/atharvarai/Blog-with-Database/assets/86284486/f11afc5f-9dc6-485f-b004-9bd98a74b040">
+<img width="673" alt="5" src="https://github.com/atharvarai/Blog-with-Database/assets/86284486/70bfeb59-6f94-4e54-ab4b-5cbb8e7dfe90">
+
 
 
